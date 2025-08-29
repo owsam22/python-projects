@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)  
 [![Repo Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow.svg)]()  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)](https://github.com/yourusername/your-repo-name)  
+[![Stars](https://img.shields.io/github/stars/owsam22/python-projects?style=social)](https://github.com/owsam22/python-projects)  
 
 > ⚡ This repository is a **Work In Progress**. I’ll be adding, improving, and documenting projects over time. Stay tuned for more advanced, trending, and AI-powered Python builds.
 
@@ -47,11 +47,11 @@
 ---
 
 ## 🌐 Connect with Me
-- 💻 GitHub: [YourGitHub](https://github.com/yourusername)  
-- 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter: [YourTwitter](https://twitter.com/yourusername)  
-- 🌎 Portfolio: [YourPortfolio](https://yourportfolio.com)  
+- 💻 GitHub: [YourGitHub](https://github.com/owsam22)  
+- 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/samarpan22)  
+- 🌎 Portfolio: [YourPortfolio](https://owsam22.github.io/portfolio)  
 
 ---
 
 ✨ *This repo will keep evolving as I explore more AI, automation, and full-stack projects.*  
+
