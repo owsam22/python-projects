@@ -47,11 +47,12 @@
 ---
 
 ## 🌐 Connect with Me
-- 💻 GitHub: [YourGitHub](https://github.com/owsam22)  
-- 🔗 LinkedIn: [YourLinkedIn](https://linkedin.com/in/samarpan22)  
-- 🌎 Portfolio: [YourPortfolio](https://owsam22.github.io/portfolio)  
+- 💻 GitHub: [owsam22](https://github.com/owsam22)  
+- 🔗 LinkedIn: [samarpan atithi](https://linkedin.com/in/samarpan22)  
+- 🌎 Portfolio: [samarpan](https://owsam22.github.io/portfolio)  
 
 ---
 
 ✨ *This repo will keep evolving as I explore more AI, automation, and full-stack projects.*  
+
 
